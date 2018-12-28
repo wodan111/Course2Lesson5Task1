@@ -1,6 +1,7 @@
 package ua.testov.test;
 
 import java.io.File;
+
 import java.io.FileFilter;
 
 public class MyFileFilter implements FileFilter {
