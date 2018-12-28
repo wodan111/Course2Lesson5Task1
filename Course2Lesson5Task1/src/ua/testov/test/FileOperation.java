@@ -28,7 +28,7 @@ public class FileOperation {
 				throw e;
 			}
 		} else {
-			System.out.println("Файл повинен бути формату .doc, .docx");  
+			System.out.println("Р¤Р°Р№Р» РїРѕРІРёРЅРµРЅ Р±СѓС‚Рё С„РѕСЂРјР°С‚Сѓ .doc, .docx");   
 		}
 	}
 }
