@@ -12,7 +12,7 @@ public class FileOperation {
 		// TODO Auto-generated constructor stub
 	}
 
-	public static void fileCopyDocx(File in, File out) throws IOException {
+	public static void fileCopyDoc(File in, File out) throws IOException {
 		MyFileFilter mFF = new MyFileFilter();
 
 		byte[] buffer = new byte[1024 * 1024];

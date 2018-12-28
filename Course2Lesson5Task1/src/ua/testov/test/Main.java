@@ -10,7 +10,7 @@ public class Main {
 		File in = new File("test.docx");
 		File out = new File("copy.doc");
 		try {
-			FileOperation.fileCopyDocx(in, out);
+			FileOperation.fileCopyDoc(in, out);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
